@@ -1,0 +1,749 @@
+prompt,response
+Earth,Earth is the third planet from the Sun and the only one known to support life.
+Mars,Mars is a cold desert world often called the Red Planet because of its reddish soil.
+Jupiter,Jupiter is the largest planet in our solar system and has a giant storm called the Great Red Spot.
+Saturn,Saturn is famous for its bright rings made of ice and rock.
+Venus,"Venus is covered by thick clouds and has a very hot surface, hotter than Mercury."
+Mercury,Mercury is the smallest planet and the closest one to the Sun.
+Neptune,"Neptune is a blue planet with strong winds and storms, located far from the Sun."
+Uranus,Uranus rotates on its side and appears blue because of methane in its atmosphere.
+Asteroid,"Asteroids are rocky objects that orbit the Sun, usually between Mars and Jupiter."
+Comet,"Comets are icy objects that release gas and dust, creating bright tails when near the Sun."
+Moon,The Moon is Earth’s natural satellite and affects our tides.
+Sun,The Sun is a star at the center of the solar system that provides heat and light to Earth.
+Black Hole,A black hole is a region of space where gravity is so strong that not even light can escape.
+2020 XE8,2020 XE8 is a near-Earth asteroid that orbits the Sun.
+2011 HJ5,2011 HJ5 is a small asteroid discovered in 2011 that passes near Earth’s orbit.
+Pluto,"Pluto is a dwarf planet in the Kuiper Belt, once considered the ninth planet of the solar system."
+Ceres,Ceres is the largest object in the asteroid belt between Mars and Jupiter and is classified as a dwarf planet.
+Europa,"Europa is one of Jupiter’s moons, thought to have an ocean of liquid water beneath its icy surface."
+Titan,Titan is Saturn’s largest moon and has lakes and rivers of liquid methane and ethane.
+Ganymede,Ganymede is the largest moon in the solar system and orbits Jupiter.
+Io,Io is a volcanic moon of Jupiter with hundreds of active volcanoes.
+Enceladus,Enceladus is a small moon of Saturn that shoots plumes of water ice into space from its south pole.
+Milky Way,The Milky Way is the galaxy that contains our solar system.
+Andromeda,Andromeda is the nearest large galaxy to the Milky Way and is on a collision course with it.
+Exoplanet,An exoplanet is a planet that orbits a star outside our solar system.
+Galaxy,"A galaxy is a huge system of stars, gas, dust, and dark matter held together by gravity."
+Nebula,"A nebula is a massive cloud of gas and dust in space, often a birthplace of stars."
+Quasar,A quasar is an extremely bright and energetic object powered by a supermassive black hole.
+Pulsar,A pulsar is a rapidly rotating neutron star that emits beams of radiation.
+Supernova,A supernova is a powerful explosion that occurs when a star dies.
+Hubble Telescope,The Hubble Space Telescope has provided detailed images of deep space since 1990.
+James Webb Telescope,"The James Webb Space Telescope is the most powerful space telescope, launched in 2021, designed to observe distant galaxies."
+Voyager 1,"Voyager 1 is the farthest human-made object from Earth, launched in 1977 to explore the outer planets."
+Voyager 2,"Voyager 2 is a spacecraft launched in 1977 that visited all four outer planets: Jupiter, Saturn, Uranus, and Neptune."
+Apollo 11,Apollo 11 was the first crewed mission to land on the Moon in 1969.
+International Space Station,"The International Space Station is a habitable space station orbiting Earth, used for scientific research."
+Space Shuttle,The Space Shuttle was NASA’s reusable spacecraft used between 1981 and 2011.
+Meteor,A meteor is a streak of light caused by a meteoroid burning up in Earth’s atmosphere.
+Meteorite,A meteorite is a fragment of a meteoroid that survives its passage through Earth’s atmosphere and lands on the ground.
+Meteoroid,A meteoroid is a small rocky or metallic body traveling through space.
+Light Year,"A light year is the distance light travels in one year, about 9.46 trillion kilometers."
+Astronomical Unit,"An astronomical unit (AU) is the average distance between Earth and the Sun, about 150 million kilometers."
+Dark Matter,Dark matter is invisible matter that makes up most of the universe’s mass.
+Dark Energy,Dark energy is the mysterious force causing the accelerated expansion of the universe.
+Big Bang,"The Big Bang is the leading theory for the origin of the universe, describing its expansion from a hot dense state."
+Haumea,"Haumea is a dwarf planet shaped like an elongated ellipsoid, located in the Kuiper Belt."
+Makemake,"Makemake is a bright dwarf planet discovered in 2005, located in the Kuiper Belt."
+Eris,"Eris is one of the most massive dwarf planets, slightly smaller than Pluto but more massive."
+Sedna,Sedna is a distant trans-Neptunian object with an extremely long orbit around the Sun.
+Callisto,"Callisto is the second-largest moon of Jupiter, heavily cratered and geologically inactive."
+Phobos,Phobos is the larger of Mars’s two moons and is slowly spiraling towards the planet.
+Deimos,"Deimos is the smaller and more distant of Mars’s two moons, irregular in shape."
+Triton,Triton is Neptune’s largest moon and orbits in the opposite direction of Neptune’s rotation.
+Charon,"Charon is Pluto’s largest moon, so big that Pluto and Charon are sometimes considered a double dwarf planet system."
+Miranda,Miranda is a moon of Uranus with unusual surface features such as giant canyons and cliffs.
+Oberon,"Oberon is the outermost large moon of Uranus, covered in impact craters and ice."
+Rhea,"Rhea is the second-largest moon of Saturn, with a thin atmosphere of oxygen and carbon dioxide."
+Dione,Dione is a moon of Saturn with bright icy cliffs caused by tectonic fractures.
+Iapetus,"Iapetus is a moon of Saturn with a striking two-tone coloration: one side dark, the other bright."
+Mimas,"Mimas is a small moon of Saturn, famous for its large impact crater that makes it resemble the Death Star."
+Sirius,"Sirius is the brightest star in the night sky, located in the constellation Canis Major."
+Betelgeuse,"Betelgeuse is a red supergiant star in Orion, nearing the end of its life."
+Rigel,"Rigel is a blue supergiant star in Orion, one of the brightest stars visible from Earth."
+Proxima Centauri,"Proxima Centauri is the closest known star to the Sun, located 4.24 light years away."
+Alpha Centauri,Alpha Centauri is the closest star system to Earth and consists of three stars.
+Polaris,"Polaris, also called the North Star, is famous for being aligned with Earth’s axis of rotation."
+Vega,"Vega is a bright star in the constellation Lyra, historically used as a navigation reference."
+Arcturus,"Arcturus is a giant star in the constellation Boötes, one of the brightest in the sky."
+Sombrero Galaxy,The Sombrero Galaxy is a spiral galaxy with a bright nucleus and a prominent dust lane.
+Whirlpool Galaxy,The Whirlpool Galaxy is a classic spiral galaxy interacting with a smaller companion galaxy.
+Triangulum Galaxy,The Triangulum Galaxy is the third-largest galaxy in the Local Group after the Milky Way and Andromeda.
+Orion Nebula,The Orion Nebula is a massive star-forming region visible in the constellation Orion.
+Crab Nebula,The Crab Nebula is the remnant of a supernova observed in 1054 AD.
+Eagle Nebula,"The Eagle Nebula contains the famous Pillars of Creation, where new stars are being born."
+Helix Nebula,The Helix Nebula is a planetary nebula often nicknamed the Eye of God.
+Carina Nebula,"The Carina Nebula is a large star-forming region in the southern sky, home to massive stars."
+Aurora Borealis,"Aurora Borealis, or northern lights, are natural light displays caused by solar particles colliding with Earth’s atmosphere near the poles."
+Aurora Australis,"Aurora Australis, or southern lights, are similar to the northern lights but occur in the southern hemisphere."
+Solar Eclipse,"A solar eclipse occurs when the Moon passes between Earth and the Sun, blocking sunlight."
+Lunar Eclipse,A lunar eclipse occurs when Earth casts its shadow on the Moon.
+Solar Wind,The solar wind is a stream of charged particles released from the Sun’s outer atmosphere.
+Cosmic Rays,Cosmic rays are high-energy particles from outer space that strike Earth’s atmosphere.
+Gamma-Ray Burst,"A gamma-ray burst is a sudden, intense release of gamma radiation from a distant cosmic event."
+Gravitational Waves,Gravitational waves are ripples in spacetime caused by massive accelerating objects such as colliding black holes.
+Kepler Space Telescope,The Kepler Space Telescope searched for exoplanets by detecting tiny dips in starlight.
+Chandra X-ray Observatory,The Chandra X-ray Observatory studies high-energy regions of the universe using X-rays.
+Spitzer Space Telescope,The Spitzer Space Telescope observed the universe in infrared light until 2020.
+Perseverance Rover,The Perseverance Rover is a NASA mission exploring Mars to study geology and search for signs of past life.
+Curiosity Rover,"The Curiosity Rover has been exploring Mars since 2012, studying its climate and surface conditions."
+New Horizons,New Horizons is a NASA mission that flew past Pluto in 2015 and is now exploring the Kuiper Belt.
+Artemis Program,The Artemis Program is NASA’s plan to return humans to the Moon and eventually go to Mars.
+Rosetta Mission,The Rosetta Mission was a European Space Agency mission that studied and landed a probe on comet 67P.
+Parsec,A parsec is a unit of distance equal to 3.26 light years.
+Redshift,"Redshift is the stretching of light waves as objects move away, used to measure the universe’s expansion."
+Event Horizon,The event horizon is the boundary around a black hole beyond which nothing can escape.
+Singularity,A singularity is a point inside a black hole where gravity becomes infinitely strong.
+Hawking Radiation,Hawking radiation is a theoretical radiation predicted to be emitted by black holes.
+Cosmic Microwave Background,"The cosmic microwave background is faint radiation left over from the Big Bang, filling the universe."
+Atmosphere of Venus,Venus has a dense atmosphere composed mostly of carbon dioxide with clouds of sulfuric acid.
+Surface of Mars,"The surface of Mars is cold, dusty, and covered with iron oxide that gives it a red color."
+Great Red Spot,The Great Red Spot is a giant storm on Jupiter that has lasted for centuries.
+Saturn’s Rings,"Saturn’s rings are made of ice particles, rock fragments, and dust."
+Blue color of Neptune,Neptune appears blue because methane in its atmosphere absorbs red light and reflects blue light.
+Tilt of Uranus,"Uranus is tilted on its side, with a 98-degree tilt, causing extreme seasonal changes."
+Magnetosphere of Jupiter,"Jupiter’s magnetosphere is the largest structure in the solar system, extending millions of kilometers."
+Temperature on Mercury,"Mercury experiences extreme temperatures, from -180°C at night to 430°C during the day."
+Greenhouse effect on Venus,"Venus has a runaway greenhouse effect, making it the hottest planet in the solar system."
+Seasons on Mars,"Mars has seasons similar to Earth because of its axial tilt, though they last nearly twice as long."
+Europa’s Ice Crust,"Europa’s surface is covered in a thick crust of ice, possibly hiding a liquid water ocean beneath."
+Cryovolcanoes on Enceladus,Enceladus has cryovolcanoes that eject plumes of water vapor and ice into space.
+Titan’s Atmosphere,"Titan has a thick nitrogen-rich atmosphere, denser than Earth’s."
+Methane Lakes on Titan,Titan has lakes and seas of liquid methane and ethane on its surface.
+Volcanoes on Io,Io is the most volcanically active body in the solar system.
+Subsurface Ocean on Ganymede,Ganymede is thought to have a subsurface ocean beneath its icy crust.
+Pluto and Charon System,"Pluto and Charon are tidally locked, always showing the same face to each other."
+Lunar Maria,"Lunar maria are large, dark basalt plains formed by ancient volcanic eruptions."
+Far Side of the Moon,The far side of the Moon has more craters and fewer maria compared to the near side.
+Impact Craters on Callisto,"Callisto’s surface is the most heavily cratered in the solar system, showing little geological activity."
+Life Cycle of a Star,"A star’s life cycle includes stages: nebula, protostar, main sequence, red giant, and end state (white dwarf, neutron star, or black hole)."
+Protostar,A protostar is a young star still forming within a collapsing cloud of gas and dust.
+Main Sequence Star,A main sequence star is in the stable phase where nuclear fusion of hydrogen occurs in its core.
+Red Giant,A red giant is a late stage of a star’s life when it expands after exhausting core hydrogen.
+White Dwarf,"A white dwarf is the hot, dense remnant of a low- or medium-mass star."
+Neutron Star,A neutron star is an extremely dense stellar remnant left after a supernova.
+Black Hole Formation,A black hole forms when a massive star collapses under its own gravity after a supernova.
+Binary Star System,A binary star system is a system where two stars orbit their common center of mass.
+Open Cluster,An open cluster is a group of young stars formed from the same molecular cloud.
+Globular Cluster,A globular cluster is a dense spherical collection of ancient stars bound by gravity.
+Local Group,The Local Group is a small cluster of galaxies that includes the Milky Way and Andromeda.
+Virgo Cluster,The Virgo Cluster is a large cluster of galaxies about 55 million light years away.
+Supercluster,"A supercluster is a massive grouping of galaxy clusters, the largest structures in the universe."
+Large Magellanic Cloud,The Large Magellanic Cloud is a satellite galaxy of the Milky Way visible in the southern sky.
+Small Magellanic Cloud,The Small Magellanic Cloud is another irregular satellite galaxy of the Milky Way.
+Barred Spiral Galaxy,A barred spiral galaxy has a central bar-shaped structure of stars extending from its core.
+Elliptical Galaxy,An elliptical galaxy has an oval shape and contains older stars with little new star formation.
+Irregular Galaxy,An irregular galaxy lacks a regular shape and is often rich in gas and dust.
+Galactic Center,"The galactic center is the rotational center of a galaxy, usually containing a supermassive black hole."
+Supermassive Black Hole,"A supermassive black hole lies at the center of most large galaxies, including the Milky Way."
+Oort Cloud,The Oort Cloud is a distant spherical shell of icy objects surrounding the solar system.
+Kuiper Belt,The Kuiper Belt is a region beyond Neptune filled with icy bodies and dwarf planets.
+Asteroid Belt,The asteroid belt lies between Mars and Jupiter and contains many rocky objects.
+Planetary Nebula,A planetary nebula is the glowing shell of gas expelled by a dying star.
+Stellar Wind,Stellar wind is a continuous flow of charged particles released from a star’s atmosphere.
+Accretion Disk,An accretion disk is a rotating disk of matter around a central object such as a star or black hole.
+Roche Limit,The Roche limit is the distance within which a celestial body can be torn apart by tidal forces.
+Solar Flares,Solar flares are sudden bursts of radiation from the Sun’s surface.
+Coronal Mass Ejection,A coronal mass ejection is a massive burst of solar plasma ejected into space.
+Interstellar Medium,The interstellar medium is the matter that exists in the space between stars.
+Pioneer 10,Pioneer 10 was the first spacecraft to travel through the asteroid belt and fly past Jupiter.
+Pioneer 11,Pioneer 11 followed a similar path to Pioneer 10 and went on to fly past Saturn.
+Viking 1,Viking 1 was the first successful U.S. mission to land on Mars and send back images.
+Viking 2,"Viking 2 was a companion mission to Viking 1, also landing on Mars in 1976."
+Galileo Spacecraft,The Galileo spacecraft studied Jupiter and its moons in the 1990s.
+Cassini Mission,The Cassini mission explored Saturn and its moons from 2004 to 2017.
+Juno Mission,The Juno mission is currently studying Jupiter’s atmosphere and magnetic field.
+Mars Reconnaissance Orbiter,The Mars Reconnaissance Orbiter has been mapping Mars from orbit since 2006.
+Huygens Probe,"The Huygens probe landed on Titan in 2005, sending data about its surface."
+OSIRIS-REx,OSIRIS-REx collected samples from the asteroid Bennu and is returning them to Earth.
+Yuri Gagarin,Yuri Gagarin was the first human to travel into space in 1961.
+Neil Armstrong,Neil Armstrong was the first person to walk on the Moon in 1969.
+Buzz Aldrin,"Buzz Aldrin was the second person to walk on the Moon, following Neil Armstrong."
+Valentina Tereshkova,"Valentina Tereshkova was the first woman in space, in 1963."
+Sally Ride,"Sally Ride was the first American woman in space, in 1983."
+Chris Hadfield,Chris Hadfield is a Canadian astronaut known for commanding the International Space Station.
+Peggy Whitson,Peggy Whitson is a NASA astronaut who holds the U.S. record for most cumulative time in space.
+SpaceX Dragon,SpaceX Dragon is a reusable spacecraft developed to carry cargo and crew to the ISS.
+Blue Origin New Shepard,Blue Origin’s New Shepard is a reusable rocket designed for suborbital space tourism.
+Virgin Galactic SpaceShipTwo,Virgin Galactic’s SpaceShipTwo is a commercial spacecraft designed for space tourism.
+Kepler’s Laws,"Kepler’s Laws describe planetary motion, including elliptical orbits and orbital periods."
+Newton’s Law of Gravitation,Newton’s Law of Gravitation states that every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of their distance.
+Escape Velocity,Escape velocity is the minimum speed needed to break free from a planet’s gravitational pull.
+Schwarzschild Radius,The Schwarzschild radius is the critical radius at which an object becomes a black hole.
+Speed of Light,"The speed of light is the fastest possible speed, about 299,792 km per second."
+Planck Constant,The Planck constant relates the energy of a photon to its frequency in quantum mechanics.
+Hubble’s Law,Hubble’s Law states that galaxies are receding from us at a rate proportional to their distance.
+Cosmological Constant,"The cosmological constant represents the energy density of empty space, contributing to cosmic expansion."
+Entropy of the Universe,The entropy of the universe is a measure of disorder that always increases over time.
+Thermodynamics in Space,"Thermodynamics in space governs how energy, heat, and entropy behave in a vacuum environment."
+Atmosphere of Mars,Mars has a thin atmosphere composed mostly of carbon dioxide with traces of nitrogen and argon.
+Atmosphere of Jupiter,"Jupiter’s atmosphere is mostly hydrogen and helium, with colorful cloud bands and storms."
+Atmosphere of Saturn,"Saturn’s atmosphere is mainly hydrogen and helium, with ammonia clouds creating its yellow hue."
+Atmosphere of Uranus,"Uranus has an atmosphere rich in hydrogen, helium, and methane, giving it a blue-green color."
+Atmosphere of Neptune,"Neptune’s atmosphere contains hydrogen, helium, and methane, with supersonic winds and storms."
+Magnetic field of Earth,Earth’s magnetic field protects the planet from solar wind and cosmic radiation.
+Magnetic field of Mercury,"Mercury has a weak magnetic field, only about 1% the strength of Earth’s."
+Core of Earth,Earth’s core is made of a solid inner core and liquid outer core of iron and nickel.
+Core of Mars,"Mars’s core is smaller and likely partly liquid, contributing to its weak magnetic field."
+Volcanoes on Mars,"Mars has extinct volcanoes, the largest being Olympus Mons."
+Olympus Mons,"Olympus Mons is the tallest volcano in the solar system, nearly three times taller than Mount Everest."
+Valles Marineris,"Valles Marineris is a massive canyon system on Mars stretching over 4,000 km."
+Water on Mars,Mars has evidence of past liquid water in dried riverbeds and polar ice caps.
+Seasons on Saturn,Saturn has long seasons due to its orbital period of nearly 30 Earth years.
+Storms on Neptune,"Neptune experiences violent storms, including the Great Dark Spot."
+Hyperion,Hyperion is an irregularly shaped moon of Saturn that tumbles chaotically in its orbit.
+Proteus,"Proteus is Neptune’s second-largest moon, irregular and heavily cratered."
+Nereid,Nereid is an outer moon of Neptune with a highly eccentric orbit.
+Ariel,Ariel is one of Uranus’s moons with a surface marked by valleys and ridges.
+Umbriel,Umbriel is a dark Uranian moon with few bright surface features.
+Titania,"Titania is Uranus’s largest moon, with canyons and signs of geological activity."
+Puck,"Puck is a small inner moon of Uranus, irregularly shaped."
+Pan,Pan is a tiny moon of Saturn that orbits within the Encke Gap of its rings.
+Atlas,Atlas is a small Saturnian moon shaped like a flying saucer.
+Phoebe,Phoebe is an irregular moon of Saturn believed to be a captured object from the Kuiper Belt.
+Janus,Janus is a co-orbital moon of Saturn sharing its orbit with Epimetheus.
+Epimetheus,"Epimetheus is Saturn’s co-orbital partner with Janus, exchanging orbits periodically."
+Himalia,"Himalia is a prograde irregular moon of Jupiter, about 170 km in diameter."
+Elara,Elara is a small outer moon of Jupiter belonging to the Himalia group.
+Lysithea,Lysithea is a tiny irregular moon of Jupiter discovered in 1938.
+Metis,"Metis is the innermost moon of Jupiter, orbiting close to its rings."
+Adrastea,"Adrastea is a small moon of Jupiter, discovered by Voyager 2 in 1979."
+Amalthea,"Amalthea is Jupiter’s third moon, irregular and reddish in color."
+Thebe,"Thebe is another inner moon of Jupiter, orbiting close to Amalthea."
+Carme,"Carme is a retrograde irregular moon of Jupiter, part of the Carme group."
+Hot Jupiter,A Hot Jupiter is a gas giant exoplanet that orbits very close to its star.
+Super-Earth,A Super-Earth is an exoplanet larger than Earth but smaller than Neptune.
+Rogue Planet,A Rogue Planet is a planet that drifts freely in space without orbiting a star.
+Habitable Zone,The habitable zone is the region around a star where liquid water can exist on a planet’s surface.
+Transit Method,The transit method detects exoplanets by measuring dips in starlight as planets pass in front of stars.
+Radial Velocity Method,The radial velocity method measures tiny wobbles in stars caused by orbiting planets.
+Kepler-22b,Kepler-22b is an exoplanet in the habitable zone discovered by the Kepler telescope.
+Kepler-186f,Kepler-186f is an Earth-sized exoplanet in the habitable zone of its star.
+TRAPPIST-1 System,"The TRAPPIST-1 system has seven Earth-sized exoplanets, three in the habitable zone."
+Proxima b,"Proxima b is an exoplanet orbiting Proxima Centauri, the closest star to the Sun."
+Stellar Parallax,"Stellar parallax is the apparent shift of nearby stars against distant background stars, used to measure distance."
+Spectral Classification of Stars,"Stars are classified by their spectral type: O, B, A, F, G, K, M, based on temperature and color."
+Luminosity of Stars,Luminosity of a star is the total amount of energy it radiates per second.
+Hertzsprung-Russell Diagram,The Hertzsprung-Russell diagram plots stars by brightness and temperature to show their life stages.
+Variable Stars,Variable stars change brightness over time due to internal or orbital factors.
+Cosmic Inflation,Cosmic inflation is a rapid expansion of the universe that occurred fractions of a second after the Big Bang.
+Observable Universe,"The observable universe is the portion of the universe we can see, about 93 billion light years across."
+Multiverse Theory,The multiverse theory suggests that our universe may be one of many universes.
+Dark Flow,Dark flow is a mysterious large-scale motion of galaxy clusters toward a specific region of space.
+Great Attractor,The Great Attractor is a gravitational anomaly pulling galaxies in its direction.
+Cosmic Web,The cosmic web is the large-scale structure of the universe formed by filaments of galaxies.
+Filament of Galaxies,A filament of galaxies is a massive thread-like structure connecting clusters of galaxies.
+Void in Space,"Voids are vast, nearly empty regions of space between galaxy clusters."
+Ultra-Diffuse Galaxy,Ultra-diffuse galaxies are faint galaxies with very low star density.
+Galaxy Merger,A galaxy merger occurs when two or more galaxies collide and combine.
+SOHO Observatory,SOHO is a solar observatory spacecraft studying the Sun’s interior and atmosphere.
+WISE Telescope,The WISE telescope conducted an infrared survey of the entire sky.
+Gaia Mission,The Gaia mission is mapping the positions and motions of over a billion stars.
+James Clerk Maxwell Telescope,The James Clerk Maxwell Telescope observes submillimeter wavelengths from Hawaii.
+FAST Telescope,"FAST is the world’s largest filled-aperture radio telescope, located in China."
+ALMA Observatory,ALMA is a powerful array of radio telescopes in Chile studying cold regions of the universe.
+Square Kilometre Array,The Square Kilometre Array is a massive future radio telescope project spanning multiple continents.
+LISA Mission,The LISA mission will study gravitational waves using space-based detectors.
+Mars Express,Mars Express is a European mission studying Mars from orbit since 2003.
+ExoMars Rover,The ExoMars Rover is a European mission to search for signs of life on Mars.
+TESS Mission,The TESS mission searches for exoplanets using the transit method.
+CHEOPS Mission,The CHEOPS mission is focused on characterizing known exoplanets.
+BepiColombo,BepiColombo is a joint ESA-JAXA mission to study Mercury.
+Hayabusa2,Hayabusa2 was a Japanese mission that returned samples from the asteroid Ryugu.
+Akatsuki Venus Probe,Akatsuki is a Japanese probe studying the atmosphere of Venus.
+Chandrayaan-1,"Chandrayaan-1 was India’s first mission to the Moon, launched in 2008."
+Chandrayaan-2,"Chandrayaan-2 was India’s second lunar mission, with an orbiter and lander."
+Chandrayaan-3,Chandrayaan-3 is India’s successful lunar lander mission in 2023.
+Mangalyaan,"Mangalyaan, or Mars Orbiter Mission, is India’s first mission to Mars, launched in 2013."
+Tiangong Space Station,Tiangong is China’s modular space station currently in orbit.
+NASA,NASA is the United States’ space agency responsible for space exploration and research.
+ESA,"ESA is the European Space Agency, a multinational organization for space science and missions."
+ISRO,"ISRO is the Indian Space Research Organisation, known for cost-effective space missions."
+Roscosmos,Roscosmos is Russia’s state space corporation overseeing space activities.
+CNSA,"CNSA is the China National Space Administration, responsible for Chinese space programs."
+JAXA,"JAXA is the Japan Aerospace Exploration Agency, conducting space and planetary missions."
+SpaceX,SpaceX is a private company pioneering reusable rockets and crewed missions.
+Blue Origin,Blue Origin is a private space company focused on space tourism and reusable rockets.
+Virgin Galactic,Virgin Galactic is a commercial spaceflight company offering suborbital flights.
+Axiom Space,Axiom Space is a private company building the first commercial space station.
+Robert Goddard,Robert Goddard is considered the father of modern rocketry.
+Konstantin Tsiolkovsky,Konstantin Tsiolkovsky was a Russian pioneer of astronautic theory.
+Wernher von Braun,Wernher von Braun was a rocket engineer who led NASA’s Saturn V development.
+Sergey Korolev,Sergey Korolev was the chief designer of the Soviet space program.
+Elon Musk,"Elon Musk is the founder of SpaceX, aiming to colonize Mars."
+Jeff Bezos,"Jeff Bezos is the founder of Blue Origin, promoting space tourism."
+Richard Branson,Richard Branson founded Virgin Galactic for suborbital space tourism.
+Katherine Johnson,Katherine Johnson was a NASA mathematician whose calculations were crucial for spaceflight.
+Carl Sagan,Carl Sagan was an astronomer and science communicator who popularized space science.
+Stephen Hawking,Stephen Hawking was a physicist known for work on black holes and cosmology.
+Quantum Gravity,Quantum gravity seeks to unify general relativity and quantum mechanics.
+String Theory,String theory proposes that fundamental particles are tiny vibrating strings.
+Multidimensional Space,Multidimensional space theories suggest extra spatial dimensions beyond the familiar three.
+Antimatter,Antimatter is composed of particles with opposite charge to normal matter.
+Matter-Antimatter Asymmetry,Matter-antimatter asymmetry is the mystery of why the universe contains more matter than antimatter.
+Zero-Point Energy,Zero-point energy is the lowest possible energy a quantum system can have.
+Vacuum Energy,Vacuum energy is the energy density of empty space itself.
+Time Dilation,Time dilation is the slowing of time experienced at high speeds or strong gravity.
+Relativity of Simultaneity,Relativity of simultaneity means events that appear simultaneous in one frame may not in another.
+Wormhole,A wormhole is a hypothetical tunnel connecting distant points in spacetime.
+White Hole,"A white hole is a theoretical reverse of a black hole, where matter can only escape."
+Cosmic Strings,Cosmic strings are hypothetical 1-dimensional defects in spacetime formed in the early universe.
+Inflationary Universe,The inflationary universe theory explains the rapid expansion of space after the Big Bang.
+Entropy of Black Holes,Black hole entropy is a measure of the information hidden within its event horizon.
+Information Paradox,The black hole information paradox is the puzzle of whether information is destroyed in black holes.
+Quantum Entanglement,Quantum entanglement is when particles remain correlated even at vast distances.
+Superposition Principle,The superposition principle states that quantum systems can exist in multiple states until observed.
+Decoherence,Decoherence explains how quantum systems lose superposition when interacting with the environment.
+Many-Worlds Interpretation,The many-worlds interpretation suggests all possible outcomes of quantum events exist in parallel universes.
+Anthropic Principle,The anthropic principle states that the universe’s laws appear fine-tuned because they allow life to exist.
+Exoplanet,An exoplanet is a planet that orbits a star outside our solar system.
+Hot Jupiter,"A Hot Jupiter is a gas giant exoplanet that orbits very close to its star, making it extremely hot."
+Super-Earth,A Super-Earth is an exoplanet with a mass larger than Earth’s but smaller than ice giants like Neptune.
+Habitable Zone,The habitable zone is the region around a star where conditions may allow liquid water to exist.
+Kepler-22b,Kepler-22b is one of the first discovered potentially habitable exoplanets.
+TRAPPIST-1 System,"The TRAPPIST-1 system has seven Earth-sized exoplanets, three in the habitable zone."
+Proxima b,"Proxima b orbits Proxima Centauri, the closest star to the Sun."
+Exoplanet Atmosphere,"Exoplanet atmospheres are studied to detect gases like oxygen, methane, and water vapor."
+Transit Method,The transit method detects exoplanets by measuring dips in starlight as a planet passes in front.
+Radial Velocity Method,The radial velocity method measures tiny wobbles in a star caused by orbiting planets.
+Direct Imaging,Direct imaging takes pictures of exoplanets by blocking out their star’s light.
+Microlensing,Microlensing detects exoplanets by observing how a star’s light is bent by gravity.
+Exoplanet Biosignature,An exoplanet biosignature is a chemical sign in the atmosphere that could indicate life.
+Rogue Planet,"A rogue planet is a planet not bound to any star, wandering through space."
+Exoplanetary System,An exoplanetary system is a group of planets orbiting a star other than the Sun.
+The Big Bang,The Big Bang is the leading theory for the origin of the universe about 13.8 billion years ago.
+Cosmic Microwave Background,The cosmic microwave background is faint radiation left over from the early universe.
+Inflation Theory,Inflation theory suggests the universe expanded exponentially in its first fractions of a second.
+Dark Matter,Dark matter is invisible matter that makes up about 27% of the universe’s mass-energy.
+Dark Energy,Dark energy is a mysterious force causing the accelerated expansion of the universe.
+Multiverse Theory,Multiverse theory proposes that our universe may be one of many universes.
+Observable Universe,"The observable universe is the part of the universe we can see, limited by light speed and time."
+Age of the Universe,The universe is estimated to be 13.8 billion years old.
+Expansion of Space,"The expansion of space stretches galaxies apart, with distant galaxies receding faster."
+Cosmic Web,The cosmic web is the large-scale structure of the universe made of galaxies and dark matter.
+Primordial Nucleosynthesis,Primordial nucleosynthesis created the first light elements after the Big Bang.
+Cosmic Strings,Cosmic strings are hypothetical defects in spacetime formed in the early universe.
+Singularity,"A singularity is a point of infinite density, such as at the center of a black hole."
+Heat Death of Universe,The heat death is a possible fate where the universe reaches maximum entropy and no usable energy remains.
+Big Crunch,The Big Crunch is a hypothetical scenario where the universe collapses back on itself.
+Photon,A photon is a particle of light that carries electromagnetic energy.
+Neutrino,A neutrino is a nearly massless particle that interacts very weakly with matter.
+Cosmic Rays,Cosmic rays are high-energy particles that travel through space and strike Earth’s atmosphere.
+Gamma Ray Burst,"A gamma ray burst is an intense explosion releasing enormous energy, often from collapsing stars."
+Quasar,"A quasar is a bright, distant object powered by a supermassive black hole at its center."
+Pulsar,A pulsar is a rapidly rotating neutron star that emits beams of radio waves.
+Magnetar,A magnetar is a type of neutron star with an extremely strong magnetic field.
+Higgs Boson,The Higgs boson is a particle that gives mass to other particles in the Standard Model.
+Gravitational Waves,Gravitational waves are ripples in spacetime caused by massive accelerating objects.
+Quantum Foam,Quantum foam refers to tiny fluctuations in spacetime at the Planck scale.
+Spacetime Curvature,Spacetime curvature is how mass and energy bend the fabric of space and time.
+Time Dilation,"Time dilation is the slowing of time under high speeds or strong gravity, predicted by relativity."
+Relativity,"Relativity is Einstein’s theory describing how space, time, and gravity interact."
+Frame Dragging,Frame dragging occurs when a rotating massive object twists nearby spacetime.
+Antimatter,"Antimatter consists of particles with opposite charge to normal matter, such as positrons."
+Sputnik 1,Sputnik 1 was the first artificial satellite launched by the Soviet Union in 1957.
+Hubble Space Telescope,The Hubble Space Telescope has provided detailed images of distant galaxies since 1990.
+James Webb Space Telescope,The James Webb Space Telescope is designed to observe the universe in infrared light.
+Chandrayaan-1,"Chandrayaan-1 was India’s first mission to the Moon, launched in 2008."
+Chandrayaan-2,Chandrayaan-2 attempted a soft landing on the Moon in 2019 but its lander crashed.
+Mangalyaan,"Mangalyaan, or Mars Orbiter Mission, was India’s first mission to Mars, launched in 2013."
+Artemis Program,The Artemis Program aims to return humans to the Moon in the 2020s.
+Space Shuttle,The Space Shuttle was a reusable spacecraft used by NASA from 1981 to 2011.
+International Space Station,The International Space Station is a space laboratory orbiting Earth since 1998.
+Voyager Golden Record,The Voyager Golden Record carries sounds and images of Earth aboard Voyager spacecraft.
+GPS Satellites,GPS satellites provide global positioning and navigation services.
+Weather Satellites,"Weather satellites monitor Earth’s climate, storms, and environmental changes."
+Communication Satellites,"Communication satellites relay TV, internet, and telephone signals worldwide."
+Spy Satellites,Spy satellites are used for military reconnaissance and intelligence.
+CubeSats,"CubeSats are small, lightweight satellites often used for research and education."
+Reusable Rockets,"Reusable rockets can land and be flown again, reducing launch costs."
+Ion Propulsion,Ion propulsion uses electrically charged particles for efficient space travel.
+Solar Sails,Solar sails use radiation pressure from sunlight for propulsion.
+Laser Communication,Laser communication transmits data with high speed using light beams.
+Cryogenic Engines,Cryogenic engines burn super-cooled fuels like liquid hydrogen for high thrust.
+NASA,"NASA is the United States’ space agency, founded in 1958."
+ISRO,"ISRO is India’s space agency, responsible for missions like Chandrayaan and Mangalyaan."
+ESA,"ESA is the European Space Agency, a multinational organization for space exploration."
+Roscosmos,"Roscosmos is Russia’s space agency, responsible for Soyuz missions."
+CNSA,"CNSA is China’s space agency, operating missions like Chang’e and Tiangong."
+SpaceX,"SpaceX is a private company founded by Elon Musk, known for reusable rockets and Starship."
+Blue Origin,Blue Origin is Jeff Bezos’s company focused on reusable rockets and space tourism.
+Virgin Galactic,Virgin Galactic is Richard Branson’s company offering suborbital space flights.
+ULA,"ULA, or United Launch Alliance, is a U.S. launch service provider."
+Arianespace,Arianespace is a European launch company known for the Ariane rockets.
+Apollo Program,The Apollo Program sent humans to the Moon between 1969 and 1972.
+Gemini Program,The Gemini Program tested spacecraft and spacewalking techniques before Apollo.
+Mercury Program,The Mercury Program was the first U.S. crewed space program in the early 1960s.
+Skylab,"Skylab was the first U.S. space station, launched in 1973."
+Salyut Stations,The Salyut stations were a series of Soviet space stations launched in the 1970s and 1980s.
+Very Large Telescope,The Very Large Telescope is an observatory in Chile with four large telescopes.
+ALMA,ALMA is an array of radio telescopes in Chile studying the cold universe.
+FAST Telescope,FAST is the world’s largest single-dish radio telescope located in China.
+Arecibo Observatory,The Arecibo Observatory was a giant radio telescope in Puerto Rico before collapsing in 2020.
+Event Horizon Telescope,The Event Horizon Telescope captured the first image of a black hole in 2019.
+Kepler Telescope,The Kepler Space Telescope discovered thousands of exoplanets before being retired in 2018.
+Spitzer Telescope,The Spitzer Space Telescope observed the universe in infrared until 2020.
+Chandra X-ray Observatory,The Chandra X-ray Observatory studies high-energy regions of space.
+Gaia Mission,The Gaia mission is mapping over a billion stars in the Milky Way.
+TESS,TESS is searching for exoplanets by monitoring nearby stars.
+Why Mars is Red,Mars is red because of iron oxide dust covering its surface.
+Origin of Saturn’s Name,Saturn is named after the Roman god of agriculture and time.
+Greek God Helios,Helios was the Greek god who personified the Sun.
+Roman Goddess Venus,Venus was named after the Roman goddess of love and beauty.
+Name of Uranus,Uranus was named after the Greek god of the sky.
+Origin of Neptune’s Name,Neptune was named after the Roman god of the sea.
+Pluto’s Naming,Pluto was named after the Roman god of the underworld.
+Myth of Andromeda,Andromeda is named after a princess in Greek mythology chained to a rock.
+Constellation Orion,Orion is a constellation named after a hunter in Greek mythology.
+Milky Way Name,The Milky Way is named after its appearance as a milky band of light in the night sky.
+Orion Nebula,The Orion Nebula is a star-forming region visible to the naked eye in Orion’s sword.
+Eagle Nebula,The Eagle Nebula contains towering gas columns known as the Pillars of Creation.
+Pillars of Creation,The Pillars of Creation are giant clouds of gas and dust where new stars form.
+Crab Nebula,The Crab Nebula is the remnant of a supernova observed in 1054 CE.
+Helix Nebula,The Helix Nebula is a planetary nebula nicknamed the Eye of God.
+Ring Nebula,The Ring Nebula is a planetary nebula shaped like a smoke ring.
+Horsehead Nebula,The Horsehead Nebula is a dark nebula shaped like a horse’s head in Orion.
+Carina Nebula,The Carina Nebula is a massive cloud of gas and dust in the southern sky.
+Lagoon Nebula,The Lagoon Nebula is a giant interstellar cloud in Sagittarius.
+Rosette Nebula,The Rosette Nebula is a large circular cloud of gas and dust forming stars.
+Omega Centauri,Omega Centauri is the largest known globular cluster of stars orbiting the Milky Way.
+Messier 87,Messier 87 is a giant elliptical galaxy with a supermassive black hole at its center.
+Andromeda Galaxy,The Andromeda Galaxy is the nearest spiral galaxy to the Milky Way.
+Triangulum Galaxy,The Triangulum Galaxy is a small spiral galaxy in the Local Group.
+Whirlpool Galaxy,The Whirlpool Galaxy is a grand-design spiral galaxy with prominent arms.
+Sombrero Galaxy,The Sombrero Galaxy looks like a sombrero hat with a bright nucleus and dust lane.
+Cartwheel Galaxy,The Cartwheel Galaxy has a ring-like appearance caused by a galactic collision.
+Messier 81,"Messier 81 is a spiral galaxy in Ursa Major, similar to the Milky Way."
+Messier 82,Messier 82 is a starburst galaxy with intense star formation.
+Large Quasar Group,A large quasar group is a vast structure of quasars stretching billions of light-years.
+Olympus Mons,"Olympus Mons is the tallest volcano in the solar system, located on Mars."
+Valles Marineris,"Valles Marineris is a canyon system on Mars stretching over 4,000 km."
+Canyons on Mars,Canyons on Mars like Valles Marineris dwarf Earth’s Grand Canyon.
+Polar Ice Caps on Mars,Mars has polar ice caps made of water and carbon dioxide.
+Dust Storms on Mars,Mars experiences global dust storms that can last for months.
+Venus Volcanoes,"Venus has massive volcanoes, including Maxwell Montes, the tallest mountain."
+Mercury Caloris Basin,The Caloris Basin is a giant impact crater on Mercury.
+Neptune Great Dark Spot,"The Great Dark Spot was a massive storm on Neptune, similar to Jupiter’s Red Spot."
+Saturn Hexagon,Saturn’s hexagon is a persistent hexagonal storm at its north pole.
+Jupiter’s Moons,"Jupiter’s moons include Europa, Io, Ganymede, and Callisto."
+Pluto’s Heart Region,Pluto’s heart-shaped region is called Tombaugh Regio.
+Charon’s Surface,Charon’s surface has deep canyons and reddish polar regions.
+Ceres,Ceres is a dwarf planet in the asteroid belt with evidence of water ice.
+Haumea,Haumea is an elongated dwarf planet with fast rotation.
+Eris,Eris is a massive dwarf planet discovered beyond Pluto.
+Tidal Forces,Tidal forces are caused by differences in gravitational pull across an object.
+Wormholes,A wormhole is a hypothetical tunnel connecting distant parts of spacetime.
+White Hole,"A white hole is a theoretical object opposite of a black hole, expelling matter."
+Event Horizon,The event horizon is the boundary around a black hole beyond which nothing escapes.
+Hawking Radiation,Hawking radiation is radiation predicted to be emitted by black holes.
+Spaghettification,Spaghettification describes how objects are stretched near a black hole.
+Cosmic Inflation,Cosmic inflation refers to the rapid expansion of the early universe.
+Time Travel in Relativity,Relativity allows for theoretical time travel effects under extreme conditions.
+Parallel Universes,Parallel universes are a hypothesis suggesting multiple universes exist.
+Quantum Entanglement,Quantum entanglement links particles so that changes in one affect the other instantly.
+Zero Point Energy,Zero point energy is the lowest possible energy of a quantum system.
+Vacuum Fluctuations,Vacuum fluctuations are temporary changes in energy in empty space.
+Supernova Explosion,A supernova is the explosive death of a massive star.
+Hypernova,A hypernova is an extremely energetic type of supernova.
+Kilonova,"A kilonova occurs when two neutron stars collide, producing heavy elements."
+Earth’s Magnetosphere,Earth’s magnetosphere shields the planet from solar wind.
+Aurora Borealis,Aurora Borealis is a natural light display near the north pole.
+Aurora Australis,Aurora Australis is a natural light display near the south pole.
+Van Allen Belts,The Van Allen Belts are regions of charged particles trapped by Earth’s magnetic field.
+Solar Storms,"Solar storms can disrupt satellites, power grids, and communications."
+Geomagnetic Reversal,Geomagnetic reversal is when Earth’s magnetic poles switch places.
+Earth’s Atmosphere Layers,"Earth’s atmosphere has layers: troposphere, stratosphere, mesosphere, thermosphere, and exosphere."
+Exosphere,The exosphere is the outermost layer of Earth’s atmosphere.
+Stratosphere Ozone Layer,The stratosphere contains the ozone layer that absorbs ultraviolet radiation.
+Troposphere Weather,The troposphere is where Earth’s weather occurs.
+Earth’s Rotation,Earth’s rotation takes 24 hours and causes day and night.
+Earth’s Orbit,Earth’s orbit around the Sun takes about 365 days.
+Precession of Earth,Precession is the slow wobble of Earth’s rotational axis.
+Axial Tilt,Earth’s axial tilt of 23.5° causes seasonal changes.
+Seasons on Earth,Seasons on Earth occur due to the tilt and orbit around the Sun.
+Apollo 11,Apollo 11 was the first mission to land humans on the Moon in 1969.
+Apollo 13,Apollo 13 suffered an explosion but the crew safely returned to Earth.
+Luna 2,Luna 2 was the first spacecraft to impact the Moon in 1959.
+Luna 9,Luna 9 was the first spacecraft to soft-land on the Moon in 1966.
+Chang’e 4,Chang’e 4 was the first mission to land on the far side of the Moon.
+Perseverance Rover,Perseverance rover landed on Mars in 2021 to search for signs of life.
+Curiosity Rover,Curiosity rover has been exploring Mars since 2012.
+Spirit Rover,Spirit rover explored Mars from 2004 to 2010.
+Opportunity Rover,Opportunity rover explored Mars for nearly 15 years.
+Sojourner Rover,Sojourner was the first rover to operate on Mars in 1997.
+Venera Missions,The Venera missions were Soviet probes that landed on Venus.
+New Horizons,"New Horizons flew by Pluto in 2015, sending detailed images."
+Parker Solar Probe,The Parker Solar Probe studies the Sun’s outer atmosphere.
+Solar Orbiter,The Solar Orbiter is studying the Sun from close orbit.
+James Webb Instruments,"James Webb’s instruments include NIRCam, MIRI, and NIRSpec."
+John Glenn,John Glenn was the first American to orbit Earth in 1962.
+Alan Shepard,Alan Shepard was the first American in space in 1961.
+Michael Collins,Michael Collins piloted the Apollo 11 command module in lunar orbit.
+Mae Jemison,Mae Jemison was the first African-American woman in space.
+Kalpana Chawla,Kalpana Chawla was an Indian-born astronaut who died in the Columbia disaster.
+Rakesh Sharma,Rakesh Sharma was the first Indian citizen in space in 1984.
+Sunita Williams,Sunita Williams is an Indian-American astronaut with long-duration spaceflights.
+Luca Parmitano,Luca Parmitano is an Italian astronaut who commanded the ISS.
+Tim Peake,Tim Peake is a British astronaut who flew to the ISS in 2015.
+Jessica Meir,Jessica Meir is a NASA astronaut known for the first all-female spacewalk.
+Christina Koch,Christina Koch set the record for the longest single spaceflight by a woman.
+Guion Bluford,Guion Bluford was the first African-American in space.
+Frank Borman,"Frank Borman commanded Apollo 8, the first mission to orbit the Moon."
+Gene Cernan,Gene Cernan was the last astronaut to walk on the Moon in 1972.
+Jim Lovell,Jim Lovell was commander of the troubled Apollo 13 mission.
+Subaru Telescope,The Subaru Telescope is an 8.2-meter optical telescope in Hawaii.
+Palomar Observatory,The Palomar Observatory hosts a 5-meter Hale Telescope in California.
+Mount Wilson Observatory,Mount Wilson Observatory was key in discovering the universe’s expansion.
+Gran Telescopio Canarias,Gran Telescopio Canarias is the world’s largest single-aperture optical telescope.
+SOFIA Telescope,SOFIA was an airborne observatory on a modified Boeing 747.
+IceCube Neutrino Observatory,IceCube Neutrino Observatory detects neutrinos using Antarctic ice.
+VERITAS Telescope,VERITAS is a gamma-ray observatory in Arizona.
+Cherenkov Telescope Array,The Cherenkov Telescope Array is the next-generation gamma-ray observatory.
+Square Kilometre Array,The Square Kilometre Array will be the world’s largest radio telescope.
+LIGO,LIGO detects gravitational waves using laser interferometry.
+Amino Acids in Space,"Amino acids have been found on meteorites, suggesting building blocks of life exist in space."
+Water on Mars,Water has been detected on Mars in ice caps and subsurface reservoirs.
+Water on Europa,Europa is believed to have a vast subsurface ocean beneath its icy crust.
+Organic Molecules on Titan,"Titan has organic molecules and methane lakes, making it a candidate for astrobiology studies."
+Astrobiology,"Astrobiology is the study of life in the universe, including its origin and potential elsewhere."
+Extremophiles,"Extremophiles are organisms that survive in harsh conditions, useful for space life studies."
+Panspermia Hypothesis,The panspermia hypothesis suggests life could spread between planets via meteoroids.
+Drake Equation,The Drake Equation estimates the number of intelligent civilizations in our galaxy.
+Fermi Paradox,The Fermi Paradox questions why we haven’t found extraterrestrial life despite high probabilities.
+SETI,SETI is the search for extraterrestrial intelligence using radio signals.
+Event Horizon,The event horizon is the boundary around a black hole beyond which nothing can escape.
+Gravitational Wave,Gravitational waves are ripples in spacetime caused by massive accelerating objects like merging black holes.
+Redshift,Redshift is the phenomenon where light from distant galaxies stretches to longer wavelengths as they move away.
+Blueshift,Blueshift is the shortening of light wavelengths when an object in space moves closer to the observer.
+Cosmic Microwave Background,"The cosmic microwave background is faint radiation left over from the Big Bang, filling the universe."
+Kuiper Belt,The Kuiper Belt is a region beyond Neptune filled with icy bodies and dwarf planets like Pluto.
+Oort Cloud,"The Oort Cloud is a distant, spherical shell of icy objects thought to surround the solar system."
+Heliosphere,The heliosphere is the bubble-like region of space influenced by the solar wind from the Sun.
+Solar Wind,The solar wind is a stream of charged particles constantly flowing from the Sun into space.
+Magnetosphere,"The magnetosphere is the region around Earth dominated by its magnetic field, protecting us from solar radiation."
+SpaceX,"SpaceX is a private space company founded by Elon Musk, known for reusable rockets."
+Falcon 9,Falcon 9 is a reusable rocket developed by SpaceX for launching satellites and cargo to space.
+Starship,Starship is SpaceX’s fully reusable spacecraft designed for deep space missions and Mars colonization.
+Blue Origin,"Blue Origin is a private space company founded by Jeff Bezos, focused on reusable rockets."
+New Shepard,New Shepard is Blue Origin’s suborbital rocket designed for space tourism.
+Roscosmos,Roscosmos is the Russian space agency responsible for crewed and uncrewed space missions.
+ISRO,"ISRO is the Indian Space Research Organisation, known for cost-effective space missions."
+Chandrayaan-3,Chandrayaan-3 is India’s 2023 mission that successfully landed near the Moon’s south pole.
+Mangalyaan,"Mangalyaan, also called MOM, is India’s Mars Orbiter Mission launched in 2013."
+Artemis Program,The Artemis Program is NASA’s mission to return humans to the Moon and eventually to Mars.
+Space Probe,"A space probe is an uncrewed spacecraft sent to collect data about planets, moons, and deep space."
+Orbiter,An orbiter is a spacecraft designed to circle around a planet or moon for observation.
+Lander,A lander is a spacecraft designed to land on the surface of a planet or moon.
+Rover,A rover is a mobile robotic vehicle designed to explore the surface of a planet or moon.
+Satellite,"A satellite is an object placed into orbit around Earth or another body for communication, research, or observation."
+Geostationary Orbit,A geostationary orbit is a circular orbit above Earth’s equator where satellites appear fixed in the sky.
+Low Earth Orbit,Low Earth orbit (LEO) is a region close to Earth where most satellites and the ISS operate.
+Polar Orbit,"A polar orbit passes over Earth’s poles, allowing satellites to observe the entire surface."
+Space Debris,"Space debris refers to defunct satellites and fragments orbiting Earth, posing collision risks."
+Astrobiology,Astrobiology is the scientific study of life in the universe and the conditions for its existence.
+Habitability Zone,"The habitability zone, or Goldilocks zone, is the region around a star where liquid water could exist."
+Terraforming,Terraforming is the theoretical process of altering a planet to make it suitable for human life.
+Astrophysics,Astrophysics is the branch of astronomy that applies physics to understand celestial objects.
+Cosmology,"Cosmology is the study of the origin, evolution, and fate of the universe as a whole."
+Extragalactic Astronomy,Extragalactic astronomy is the study of objects beyond the Milky Way galaxy.
+Solar Eclipse,"A solar eclipse happens when the Moon passes between Earth and the Sun, blocking sunlight."
+Lunar Eclipse,A lunar eclipse happens when Earth casts its shadow on the Moon.
+Transit of Venus,"The transit of Venus occurs when Venus passes directly between Earth and the Sun, appearing as a small dot."
+Occultation,"An occultation occurs when one celestial body passes in front of another, hiding it from view."
+Conjunction,A conjunction happens when two celestial bodies appear close together in the sky.
+Opposition,"Opposition occurs when a planet is directly opposite the Sun as seen from Earth, making it fully illuminated."
+Perihelion,Perihelion is the point in a planet’s orbit closest to the Sun.
+Aphelion,Aphelion is the point in a planet’s orbit farthest from the Sun.
+Solstice,"A solstice marks the longest or shortest day of the year, depending on the hemisphere."
+Equinox,An equinox occurs when day and night are nearly equal in length worldwide.
+Telescope,A telescope is an instrument that collects light to observe distant celestial objects.
+Refracting Telescope,A refracting telescope uses lenses to bend light and form images of distant objects.
+Reflecting Telescope,A reflecting telescope uses mirrors to gather and focus light from celestial objects.
+Radio Telescope,A radio telescope detects radio waves from space objects like pulsars and galaxies.
+Spectroscope,"A spectroscope splits light into a spectrum, helping astronomers analyze star composition."
+Infrared Astronomy,Infrared astronomy studies celestial objects by detecting heat radiation.
+X-ray Astronomy,X-ray astronomy observes high-energy objects like black holes and neutron stars.
+Gamma-ray Astronomy,Gamma-ray astronomy focuses on the most energetic phenomena like supernovae and quasars.
+Ultraviolet Astronomy,Ultraviolet astronomy observes hot stars and galaxies in ultraviolet wavelengths.
+Optical Astronomy,Optical astronomy studies celestial objects using visible light.
+Kepler Space Telescope,The Kepler Space Telescope discovered thousands of exoplanets using the transit method.
+Spitzer Space Telescope,The Spitzer Space Telescope studied the universe in infrared light until 2020.
+Chandra X-ray Observatory,The Chandra X-ray Observatory studies the universe in high-energy X-rays.
+ALMA,ALMA is a large array of radio telescopes in Chile used to study star formation.
+Very Large Telescope,The Very Large Telescope (VLT) is an array of optical telescopes in Chile operated by ESO.
+Arecibo Observatory,The Arecibo Observatory in Puerto Rico was a massive radio telescope before its collapse in 2020.
+FAST Radio Telescope,The FAST telescope in China is the world’s largest filled-aperture radio telescope.
+Square Kilometre Array,The Square Kilometre Array (SKA) will be the largest radio telescope network once completed.
+LIGO,LIGO is an observatory that detects gravitational waves.
+Virgo Detector,The Virgo detector is a European observatory that also detects gravitational waves.
+Asteroid Belt,The asteroid belt is a region between Mars and Jupiter filled with rocky bodies.
+Main Sequence Star,"A main sequence star is a star that fuses hydrogen into helium in its core, like the Sun."
+Red Giant,A red giant is a large star that has expanded after exhausting hydrogen in its core.
+White Dwarf,"A white dwarf is the small, dense remnant left after a star like the Sun dies."
+Neutron Star,A neutron star is an extremely dense remnant of a massive star after a supernova.
+Brown Dwarf,A brown dwarf is an object too massive to be a planet but not massive enough to sustain fusion like a star.
+Protostar,A protostar is a young star still gathering material from its surrounding nebula.
+Star Cluster,A star cluster is a group of stars bound together by gravity.
+Globular Cluster,A globular cluster is a spherical collection of old stars orbiting a galaxy.
+Open Cluster,"An open cluster is a loose group of young stars, often found in galactic disks."
+Planetary Atmosphere,"A planetary atmosphere is the layer of gases surrounding a planet, held by gravity."
+Greenhouse Effect,The greenhouse effect is the warming of a planet’s surface due to gases trapping heat in the atmosphere.
+Runaway Greenhouse Effect,"A runaway greenhouse effect occurs when a planet traps too much heat, as on Venus."
+Magnetar,A magnetar is a neutron star with an extremely powerful magnetic field.
+Hypernova,A hypernova is a massive stellar explosion even more powerful than a supernova.
+Cosmic Rays,Cosmic rays are high-energy particles from space that strike Earth’s atmosphere.
+Interstellar Medium,The interstellar medium is the gas and dust that exists between stars in a galaxy.
+Intergalactic Medium,The intergalactic medium is the thin gas between galaxies in the universe.
+Dark Nebula,A dark nebula is a dense cloud of gas and dust that blocks light from stars behind it.
+Emission Nebula,An emission nebula glows brightly because its gas is ionized by nearby stars.
+Reflection Nebula,A reflection nebula shines by reflecting light from nearby stars.
+Planetary Nebula,A planetary nebula is the glowing shell of gas ejected by a dying star.
+Stellar Nucleosynthesis,Stellar nucleosynthesis is the process by which stars create new elements through fusion.
+Galactic Halo,"The galactic halo is the spherical region surrounding a galaxy, containing old stars and dark matter."
+Galactic Core,"The galactic core is the central region of a galaxy, often containing a supermassive black hole."
+Sagittarius A*,Sagittarius A* is the supermassive black hole at the center of the Milky Way galaxy.
+Supermassive Black Hole,A supermassive black hole contains millions to billions of times the mass of the Sun.
+Intermediate Black Hole,An intermediate black hole is a black hole with a mass between stellar and supermassive ones.
+Primordial Black Hole,A primordial black hole is a theoretical black hole formed soon after the Big Bang.
+Wormhole,A wormhole is a hypothetical tunnel-like structure connecting two distant points in spacetime.
+Dyson Sphere,A Dyson sphere is a hypothetical megastructure built around a star to capture its energy.
+Von Neumann Probe,A Von Neumann probe is a theoretical self-replicating spacecraft designed for exploration.
+Kardashev Scale,The Kardashev scale measures civilizations by their energy use.
+Type I Civilization,A Type I civilization can use all available energy on its home planet.
+Type II Civilization,A Type II civilization can harness the energy of its star.
+Type III Civilization,A Type III civilization can control energy on the scale of its galaxy.
+SETI,"SETI is the Search for Extraterrestrial Intelligence, scanning for alien signals."
+Drake Equation,The Drake equation estimates the number of advanced civilizations in our galaxy.
+Fermi Paradox,The Fermi paradox asks why we haven’t found evidence of aliens despite high probabilities.
+Great Filter,The Great Filter is a theory suggesting that a difficult step in evolution limits intelligent civilizations.
+Cassini-Huygens,The Cassini-Huygens mission explored Saturn and its moon Titan.
+Galileo Probe,The Galileo probe studied Jupiter and its moons from 1995 to 2003.
+Pioneer 10,Pioneer 10 was the first spacecraft to travel beyond the asteroid belt.
+Pioneer 11,"Pioneer 11 followed, making flybys of Jupiter and Saturn."
+New Horizons,New Horizons is the spacecraft that flew past Pluto in 2015.
+Mars Curiosity Rover,The Mars Curiosity rover has been exploring Mars since 2012.
+Perseverance Rover,The Perseverance rover landed on Mars in 2021 to search for signs of life.
+Spirit Rover,The Spirit rover explored Mars from 2004 until it got stuck in sand in 2009.
+Opportunity Rover,"The Opportunity rover operated on Mars for nearly 15 years, far longer than expected."
+Sojourner Rover,"The Sojourner rover was the first rover on Mars, part of the Pathfinder mission in 1997."
+Planetary Rings,"Planetary rings are thin, flat structures of ice, rock, and dust orbiting some planets like Saturn."
+Shepherd Moon,A shepherd moon is a small moon that helps maintain the sharp edges of planetary rings.
+Cryovolcano,"A cryovolcano erupts water, ammonia, or methane instead of molten rock, common on icy moons."
+Planetary Magnetism,Planetary magnetism refers to a planet’s magnetic field generated by movements in its core.
+Albedo,Albedo is the measure of how much light a surface reflects.
+Exoplanet Atmosphere,An exoplanet atmosphere is the layer of gases around a planet orbiting another star.
+Hot Jupiter,A hot Jupiter is a gas giant exoplanet that orbits very close to its star.
+Super-Earth,A super-Earth is an exoplanet larger than Earth but smaller than Neptune.
+Mini-Neptune,A mini-Neptune is a small gas or ice-rich exoplanet similar to Neptune.
+Rogue Planet,"A rogue planet is a planet not bound to any star, floating freely in space."
+Astrobiological Signature,An astrobiological signature is evidence that may indicate life on another planet.
+Biosignature Gas,A biosignature gas is a gas in a planet’s atmosphere that could be produced by life.
+Habitable Exoplanet,A habitable exoplanet is one that lies in the habitable zone where liquid water could exist.
+Tidally Locked Planet,"A tidally locked planet always shows the same face to its star, like the Moon does to Earth."
+Circumbinary Planet,A circumbinary planet orbits around two stars instead of one.
+Interstellar Travel,"Interstellar travel is the concept of traveling between stars, currently only theoretical."
+Generation Ship,A generation ship is a spacecraft designed to sustain multiple generations of humans on long journeys.
+Sleeper Ship,A sleeper ship is a hypothetical spacecraft where crew members remain in hibernation.
+Warp Drive,A warp drive is a speculative propulsion method that could bend spacetime for faster-than-light travel.
+Alcubierre Drive,The Alcubierre drive is a theoretical warp drive solution in general relativity.
+Space Tourism,Space tourism is commercial human spaceflight for leisure and experience.
+Suborbital Flight,A suborbital flight reaches space but does not complete an orbit around Earth.
+Orbital Flight,An orbital flight places a spacecraft into orbit around Earth or another body.
+Colonization of Mars,Colonization of Mars is the concept of establishing human settlements on Mars.
+Moon Base,A Moon base would be a permanent human settlement on the Moon.
+Apollo 13,Apollo 13 was a NASA mission to the Moon that had to be aborted due to an onboard explosion.
+Apollo 17,Apollo 17 was the last crewed mission to the Moon in 1972.
+Skylab,"Skylab was the first U.S. space station, operated in the 1970s."
+Mir Space Station,The Mir space station was a Russian station that orbited Earth from 1986 to 2001.
+Tiangong Space Station,The Tiangong space station is China’s modular space station currently in orbit.
+Spacewalk,A spacewalk is when an astronaut goes outside their spacecraft in space.
+Extravehicular Mobility Unit,An Extravehicular Mobility Unit is the spacesuit used for spacewalks.
+Docking,Docking is the process of connecting two spacecraft in orbit.
+Space Capsule,A space capsule is a small crewed spacecraft designed for reentry to Earth.
+Crew Dragon,Crew Dragon is SpaceX’s spacecraft for carrying astronauts to the ISS.
+Soyuz,Soyuz is Russia’s long-standing spacecraft used for crewed spaceflight.
+Shenzhou,Shenzhou is China’s spacecraft series used for human space missions.
+Saturn V,The Saturn V was the rocket that carried astronauts to the Moon during Apollo missions.
+N1 Rocket,The N1 rocket was the Soviet counterpart to Saturn V but never had a successful launch.
+Delta IV Heavy,The Delta IV Heavy is a powerful American rocket used for heavy payload launches.
+Microgravity,Microgravity is the condition of near-weightlessness experienced in orbit.
+Space Radiation,Space radiation consists of high-energy particles from the Sun and cosmic rays that pose risks to astronauts.
+Bone Loss in Space,Bone loss in space occurs because the skeleton weakens without gravity’s constant pull.
+Muscle Atrophy in Space,Muscle atrophy in space happens due to lack of use in weightless environments.
+Space Medicine,Space medicine studies the health challenges humans face in space and their solutions.
+Circadian Rhythm in Space,Circadian rhythm in space is disrupted because astronauts see multiple sunrises and sunsets daily.
+Space Farming,Space farming explores growing food in controlled conditions during space missions.
+Hydroponics in Space,"Hydroponics in space allows plants to grow without soil, using nutrient-rich water."
+Closed Ecological System,A closed ecological system is a self-sustaining environment that recycles resources for long missions.
+Life Support System,"A life support system provides oxygen, removes carbon dioxide, and regulates temperature in spacecraft."
+Solar Flare,A solar flare is a sudden burst of radiation from the Sun’s surface.
+Coronal Mass Ejection,A coronal mass ejection is a huge release of solar plasma that can disrupt satellites and power grids.
+Van Allen Belts,"The Van Allen belts are zones of trapped charged particles around Earth, shaped by its magnetic field."
+Radiation Shielding,Radiation shielding protects spacecraft and astronauts from harmful cosmic rays.
+Space Weather,Space weather refers to conditions caused by solar activity that affect Earth and space systems.
+Near-Earth Object,A near-Earth object is an asteroid or comet with an orbit that comes close to Earth.
+Potentially Hazardous Asteroid,A potentially hazardous asteroid is a near-Earth object large enough to pose a collision risk.
+Planetary Defense,Planetary defense includes methods to detect and deflect dangerous asteroids.
+Impact Crater,An impact crater forms when a meteorite or asteroid collides with a planet or moon.
+Chicxulub Crater,The Chicxulub crater in Mexico is linked to the asteroid impact that killed the dinosaurs.
+Stonehenge Astronomy,Stonehenge was used by ancient people to track solstices and celestial events.
+Mayan Astronomy,Mayan astronomy involved detailed calendars and observations of Venus and the Sun.
+Babylonian Astronomy,"Babylonian astronomy was one of the earliest systems, tracking planetary movements."
+Greek Astronomy,Greek astronomy laid the foundations for Western science with models of the cosmos.
+Arabic Astronomy,"Arabic astronomy preserved and advanced Greek knowledge, contributing star names and instruments."
+Copernican Model,"The Copernican model proposed that the Sun, not Earth, is at the center of the solar system."
+Geocentric Model,The geocentric model wrongly placed Earth at the center of the universe.
+Heliocentric Model,The heliocentric model correctly placed the Sun at the center of the solar system.
+Kepler’s Laws,Kepler’s laws describe planetary motion as elliptical orbits governed by precise rules.
+Newton’s Law of Gravitation,Newton’s law of gravitation explained how objects attract each other with force proportional to mass.
+Einstein’s Relativity,"Einstein’s relativity revolutionized physics by linking space, time, and gravity."
+Special Relativity,Special relativity describes how space and time change at near-light speeds.
+General Relativity,General relativity describes how gravity bends spacetime around massive objects.
+Spacetime,Spacetime is the four-dimensional fabric that combines space and time.
+Time Dilation,Time dilation is the slowing of time experienced at high speeds or in strong gravity.
+Artificial Gravity,Artificial gravity is a method to simulate gravity in space using acceleration or rotation.
+Rotating Space Habitat,A rotating space habitat uses centrifugal force to create artificial gravity.
+O’Neill Cylinder,An O’Neill cylinder is a giant rotating space colony design proposed in the 1970s.
+Bernal Sphere,A Bernal sphere is a spherical space habitat concept that rotates for artificial gravity.
+Stanford Torus,The Stanford torus is a proposed doughnut-shaped space colony that provides artificial gravity through rotation.
+Apollo 11,Apollo 11 was the first mission to land humans on the Moon in 1969.
+Apollo 13,"Apollo 13 suffered a malfunction but returned safely, inspiring the phrase 'failure is not an option.'"
+Voyager 1,"Voyager 1 is the farthest human-made object from Earth, traveling into interstellar space."
+Voyager 2,Voyager 2 explored all four giant planets and continues to send back data from deep space.
+Pioneer 10,Pioneer 10 was the first spacecraft to travel through the asteroid belt and study Jupiter.
+Pioneer 11,"Pioneer 11 flew past Jupiter and Saturn, paving the way for later missions."
+New Horizons,"New Horizons flew by Pluto in 2015, providing humanity’s first close-up look at the dwarf planet."
+Juno Mission,"The Juno mission studies Jupiter’s atmosphere, magnetic field, and interior structure."
+Cassini-Huygens,"Cassini-Huygens explored Saturn and landed a probe on Titan, its largest moon."
+Galileo Mission,"The Galileo mission studied Jupiter and its moons, including evidence of Europa’s ocean."
+James Webb Space Telescope,"The James Webb Space Telescope is the most powerful space observatory, studying the early universe."
+Hubble Space Telescope,The Hubble Space Telescope has taken iconic images and advanced astronomy since 1990.
+Chandra X-ray Observatory,The Chandra X-ray Observatory studies high-energy events like black holes and supernovas.
+Spitzer Space Telescope,The Spitzer Space Telescope observed the universe in infrared wavelengths.
+Kepler Space Telescope,The Kepler Space Telescope discovered thousands of exoplanets by detecting transits.
+TESS,TESS searches for exoplanets around nearby bright stars using the transit method.
+WISE Telescope,"The WISE telescope mapped the entire sky in infrared, detecting asteroids and galaxies."
+SOFIA,SOFIA was an airborne observatory on a Boeing 747 studying the infrared universe.
+Gaia Mission,The Gaia mission maps billions of stars to create the most precise 3D map of the galaxy.
+Euclid Mission,The Euclid mission studies dark matter and dark energy through galaxy surveys.
+Arecibo Observatory,The Arecibo Observatory in Puerto Rico was once the world’s largest radio telescope.
+FAST Telescope,The FAST telescope in China is the largest single-dish radio telescope ever built.
+ALMA,ALMA is a powerful array of radio telescopes in Chile studying cold regions of the universe.
+Very Large Telescope,The Very Large Telescope in Chile uses four giant mirrors to study deep space.
+Keck Observatory,The Keck Observatory in Hawaii houses some of the world’s largest optical telescopes.
+Square Kilometre Array,The Square Kilometre Array will be the world’s largest radio telescope when completed.
+Event Horizon Telescope,The Event Horizon Telescope captured the first image of a black hole in 2019.
+Infrared Astronomy,Infrared astronomy reveals objects hidden by dust clouds that block visible light.
+Ultraviolet Astronomy,Ultraviolet astronomy studies hot stars and interstellar gas invisible in normal light.
+Gamma-ray Astronomy,Gamma-ray astronomy detects the universe’s most energetic events like pulsars and GRBs.
+Deep Space Network,The Deep Space Network is a system of giant antennas that communicate with distant spacecraft.
+Space Communication,Space communication involves transmitting signals across vast distances with minimal delay.
+Telemetry,Telemetry is the process of sending spacecraft health and science data back to Earth.
+Tracking Station,A tracking station monitors the position and movement of spacecraft in real time.
+Ground Control,Ground control manages and commands spacecraft operations from Earth.
+Interstellar Probe,An interstellar probe is a proposed mission to travel beyond our solar system.
+Generation Ship,A generation ship is a hypothetical spacecraft where multiple generations live and die during the journey.
+Warp Drive,Warp drive is a theoretical propulsion method that bends spacetime for faster-than-light travel.
+Wormhole Travel,Wormhole travel is a speculative idea of using shortcuts through spacetime to travel instantly.
+Lightsail Propulsion,"Lightsail propulsion uses large, reflective sails pushed by light or lasers to travel through space."
